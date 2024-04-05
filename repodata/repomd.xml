@@ -1,0 +1,24 @@
+1 b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298 f81483be3337eb16934db1c6d32109571c609fb3fd34fda511c81cc3787e6ded
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+<revision>1</revision>
+
+<data type="primary">
+<checksum type="sha256">b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298</checksum>
+<open-checksum type="sha256">ac185ed34ff0efb6ee4ba2db5e3f7002d306e63196762de908d39abd3bf578a2</open-checksum>
+<location href="repodata/b314e045d192c5f5cca0f7985a264a4678f369db3bfc35bbd29c6864ff4fd298-primary.xml.gz"/>
+<timestamp>1712278134</timestamp>
+<size>4109593</size>
+<open-size>31244361</open-size>
+</data>
+
+<data type="filelists">
+<checksum type="sha256">f81483be3337eb16934db1c6d32109571c609fb3fd34fda511c81cc3787e6ded</checksum>
+<open-checksum type="sha256">46ea60c1d59b20332f05a1f5f9813f1ea2fbb6568aed732e3265638623800ae5</open-checksum>
+<location href="repodata/f81483be3337eb16934db1c6d32109571c609fb3fd34fda511c81cc3787e6ded-filelists.xml.gz"/>
+<timestamp>1712278134</timestamp>
+<size>12255599</size>
+<open-size>171077886</open-size>
+</data>
+
+</repomd>
