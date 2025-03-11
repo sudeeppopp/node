@@ -1,4 +1,7 @@
 <repomd>
 <revision>1</revision>
-
+<data type="primary">
+<size>0</size>
+<open-size>0</open-size>
+</data>
 </repomd>
