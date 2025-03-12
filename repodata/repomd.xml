@@ -4,7 +4,7 @@
   <data type="primary">
     <checksum type="sha256">f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef</checksum>
     <open-checksum type="sha256">6ee3388e748d093d1776ad0be07bcd87283f66eee6c38741aedb45a811652ed2</open-checksum>
-    <location href="https://dl.fedoraproject.org/pub/epel/8/Everything/x86_64/repodata/e993a5a74d1285ab7f020bd4c53c87e8508d42b3c66b380e464efc4f325bfd06-comps-Everything.x86_64.xml.xz"/>
+    <location href="repodata/e993a5a74d1285ab7f020bd4c53c87e8508d42b3c66b380e464efc4f325bfd06-comps-Everything.x86_64.xml.xz"/>
     <timestamp>1741659609</timestamp>
     <size>0</size>
     <open-size>1</open-size>
