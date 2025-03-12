@@ -4,10 +4,10 @@
   <data type="primary">
     <checksum type="sha256">f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef</checksum>
     <open-checksum type="sha256">6ee3388e748d093d1776ad0be07bcd87283f66eee6c38741aedb45a811652ed2</open-checksum>
-    <location href="repodata/repomd.xml"/>
+    <location href="repodata/"/>
     <timestamp>1741659609</timestamp>
-    <size>2471544</size>
-    <open-size>24503761</open-size>
+    <size>0</size>
+    <open-size>1</open-size>
   </data>
   <data type="filelists">
     <checksum type="sha256">6e6ce6d1ae73df6bebfe5d253866b118a0ccdfb298fff70e7b714e12f46bb99f</checksum>
