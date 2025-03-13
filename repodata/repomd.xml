@@ -2,10 +2,46 @@
 <revision>0</revision>
 
 <data type="primary">
-<location href="f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef-primary.xml.xz"/>
-<timestamp>1741834868</timestamp>
-<size>2471316</size>
-<open-size>24501367</open-size>
+<size>0</size>
+<open-size>0</open-size>
+...
+</data>
+<data type="filelists">
+<size>0</size>
+<open-size>0</open-size>
+...
+</data>
+<data type="other">
+<size>0</size>
+<open-size>0</open-size>
+...
+</data>
+<data type="primary_db">
+<size>0</size>
+<open-size>0</open-size>
+<database_version>10</database_version>
+...
+</data>
+<data type="filelists_db">
+<size>0</size>
+<open-size>0</open-size>
+<database_version>10</database_version>
+...
+</data>
+<data type="other_db">
+<size>0</size>
+<open-size>0</open-size>
+<database_version>10</database_version>
+...
+</data>
+<data type="group">
+<size>0</size>
+<open-size>0</open-size>
+...
+</data>
+<data type="prestodelta">
+<size>0</size>
+<open-size>0</open-size>
 ...
 </data>
 </repomd>
