@@ -38,5 +38,32 @@ This XML file does not appear to have any style information associated with it. 
 <database_version>10</database_version>
 ...
 </data>
+<data type="group">
+<checksum type="sha256">e993a5a74d1285ab7f020bd4c53c87e8508d42b3c66b380e464efc4f325bfd06</checksum>
+<open-checksum type="sha256">031d83f10c488c31d199b467d52c7c9c20b24ac6e7b188ceabc431763fe57677</open-checksum>
+<location href="repodata/e993a5a74d1285ab7f020bd4c53c87e8508d42b3c66b380e464efc4f325bfd06-comps-Everything.x86_64.xml.xz"/>
+<timestamp>1742176986</timestamp>
+<size>25792</size>
+<open-size>133504</open-size>
+...
+</data>
+<data type="prestodelta">
+<checksum type="sha256">4ec7d4e93b14122b4a21ba205d8912748cca69e534c9cc8aa7c702b7df54eff7</checksum>
+<open-checksum type="sha256">ea1c3dfd9b0727b4a3c4842739a9bf08ca2dc3b3fb82015662c420ddf0c82c5a</open-checksum>
+<location href="repodata/4ec7d4e93b14122b4a21ba205d8912748cca69e534c9cc8aa7c702b7df54eff7-prestodelta.xml.xz"/>
+<timestamp>1742177137</timestamp>
+<size>2028</size>
+<open-size>9746</open-size>
+...
+</data>
+<data type="updateinfo">
+<checksum type="sha256">e3bd5e640282e11b7be4e6e09acc888f903e2d1e9a06e4285ac5f8b235c51166</checksum>
+<open-checksum type="sha256">ed77cc9cdb9325cde7f3833845bfbbfc90eb53174caed5629750aef4e873dfdb</open-checksum>
+<location href="repodata/e3bd5e640282e11b7be4e6e09acc888f903e2d1e9a06e4285ac5f8b235c51166-updateinfo.xml.bz2"/>
+<timestamp>1742177192</timestamp>
+<size>1139730</size>
+<open-size>30399978</open-size>
+...
+</data>
 ...
 </repomd>
