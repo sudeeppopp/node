@@ -11,6 +11,23 @@ This XML file does not appear to have any style information associated with it. 
 <open-size>24503299</open-size>
 ...
 </data>
-
+<data type="filelists">
+<checksum type="sha256">80de3ed7e3cf6271b66e8fadd44074cb3fdf92fcb446e74e3541103b20179ee2</checksum>
+<open-checksum type="sha256">4ab2eb1560150a7643c7e4271a66d0581baae0e6e58abfcfd6bf5ddc48f88ef9</open-checksum>
+<location href="repodata/80de3ed7e3cf6271b66e8fadd44074cb3fdf92fcb446e74e3541103b20179ee2-filelists.xml.xz"/>
+<timestamp>1742177081</timestamp>
+<size>10956024</size>
+<open-size>199119350</open-size>
+...
+</data>
+<data type="other">
+<checksum type="sha256">e49041feb966ae63e2cdab28630dd4522e011a0d5a0db768fe4a938f10372c6b</checksum>
+<open-checksum type="sha256">3cb340fdb29e1d481117a3409e5e02459d02fe44bd64f9456ba6c5d995ebcb08</open-checksum>
+<location href="repodata/e49041feb966ae63e2cdab28630dd4522e011a0d5a0db768fe4a938f10372c6b-other.xml.xz"/>
+<timestamp>1742177081</timestamp>
+<size>1127344</size>
+<open-size>17568355</open-size>
+...
+</data>
 ...
 </repomd>
