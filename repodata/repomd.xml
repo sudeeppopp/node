@@ -11,5 +11,14 @@ This XML file does not appear to have any style information associated with it. 
 <open-size>24503299</open-size>
 ...
 </data>
+<data type="primary_db">
+<checksum type="sha256">421a447957e9e7b0f89159e7fd95b120156db103c4c16c3b33205ecc97f5288d</checksum>
+<open-checksum type="sha256">d15c1697e1c1e3bc9d111973d11fcde10412d76385d310a39bb997f2d76ff7c3</open-checksum>
+<location href="repodata/421a447957e9e7b0f89159e7fd95b120156db103c4c16c3b33205ecc97f5288d-primary.sqlite.xz"/>
+<timestamp>1742177091</timestamp>
+<size>4715124</size>
+<open-size>25567232</open-size>
+<database_version>10</database_version>
+
 ...
 </repomd>
