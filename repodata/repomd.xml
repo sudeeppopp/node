@@ -1,8 +1,11 @@
+1742177143 272bd95386e7db8a8c54c9a939ff6d53686e5ef66197c7e841a3f7dd2f01a888 f8698742454183fcfaa130af8221d7241a73b3f315cd4f62363f02443963c3d7
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision>0</revision>
 
 <data type="primary">
-<location href="f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef-primary.xml.xz"/>
+<checksum type="sha256">272bd95386e7db8a8c54c9a939ff6d53686e5ef66197c7e841a3f7dd2f01a888</checksum>
+<open-checksum type="sha256">f8698742454183fcfaa130af8221d7241a73b3f315cd4f62363f02443963c3d7</open-checksum>
+<location href="repodata/f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef-primary.xml.xz"/>
 <size>0</size>
 <open-size>0</open-size>
 ...
