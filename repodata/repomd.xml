@@ -1,7 +1,7 @@
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
 <revision>1</revision>
 <data type="primary">
-<location href="repodata/primary.xml.xz"/>
+<location href="repodata/primary.xml"/>
 <size>0</size>
 <open-size>0</open-size>
 ...
