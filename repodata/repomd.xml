@@ -1,9 +1,11 @@
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
-<revision>1</revision>
+<revision>1741834904</revision>
+
 <data type="primary">
-<location href="repodata/primary.xml.xz"/>
-<size>200000</size>
-<open-size>2000000</open-size>
+<location href="repodata/f79156cf7052d8e80972e5b2d8f1dcd85d84ad16d8bd504955baef39d4c2e3ef-primary.xml.xz"/>
+<timestamp>1741834868</timestamp>
+<size>2471316</size>
+<open-size>24501367</open-size>
 ...
 </data>
 ...
