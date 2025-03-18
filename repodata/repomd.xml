@@ -2,8 +2,8 @@
 <revision>1</revision>
 <data type="primary">
 <location href="repodata/primary.xml.xz"/>
-<size>0</size>
-<open-size>0</open-size>
+<size>200000</size>
+<open-size>2000000</open-size>
 ...
 </data>
 ...
